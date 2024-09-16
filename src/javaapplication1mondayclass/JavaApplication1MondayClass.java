@@ -13,6 +13,7 @@ package javaapplication1mondayclass;
  * another change
  */
 //for pull change
+//fetch and merge
 public class JavaApplication1MondayClass {
 
     /**
